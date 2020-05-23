@@ -1,0 +1,31 @@
+Migration:
+
+1) Physical --- On Premises
+2) Virtual --- On Premises
+3) Cloud --- Cloud
+
+On-Premises to Cloud Migration
+
+Components:
+
+1) Network
+2) Storage
+3) Operating System/Servers
+4) Database
+5) Application
+
+Types of Migration:
+
+Physical HP Dell IBM to Virtual P2V
+
+Virtual to Virtual V2V (Citrix, Hyper-V, VMWare)
+
+On Prem- Cloud (Aws, Azure, GCP)
+1) AWS SMS....
+2) AWS DMS
+3) Platespin
+4) ASR Azure Site Recovery
+5) SCVMM
+
+Cloud to Cloud (Aws-GCP, Aws-Azure, Azure-Aws....)
+
